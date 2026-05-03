@@ -1,5 +1,3 @@
-# calculadora-C
-
 # Processo de Desenvolvimento da Calculadora em C
 
 ## Visao Geral
